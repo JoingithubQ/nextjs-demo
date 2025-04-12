@@ -4,7 +4,7 @@
     "build": "next build",
     "dev": "next dev --turbopack",
     "start": "next start",
-    "install": "npm install --no-optional"
+    "install": "pnpm install --no-optional"
   },
   "dependencies": {
     "@heroicons/react": "^2.2.0",
